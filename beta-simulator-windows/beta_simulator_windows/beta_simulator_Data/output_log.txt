@@ -1,0 +1,73 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2135 MB
+    Driver:   21.20.16.4550
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\svarshne\Documents\Data_Science\Udacity_Self_driving_cars_Term_1\project_4\beta-simulator-windows\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\svarshne\Documents\Data_Science\Udacity_Self_driving_cars_Term_1\project_4\beta-simulator-windows\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\svarshne\Documents\Data_Science\Udacity_Self_driving_cars_Term_1\project_4\beta-simulator-windows\beta_simulator_windows\beta_simulator_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\svarshne\Documents\Data_Science\Udacity_Self_driving_cars_Term_1\project_4\beta-simulator-windows\beta_simulator_windows\beta_simulator_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\svarshne\Documents\Data_Science\Udacity_Self_driving_cars_Term_1\project_4\beta-simulator-windows\beta_simulator_windows\beta_simulator_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\svarshne\Documents\Data_Science\Udacity_Self_driving_cars_Term_1\project_4\beta-simulator-windows\beta_simulator_windows\beta_simulator_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\svarshne\Documents\Data_Science\Udacity_Self_driving_cars_Term_1\project_4\beta-simulator-windows\beta_simulator_windows\beta_simulator_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\svarshne\Documents\Data_Science\Udacity_Self_driving_cars_Term_1\project_4\beta-simulator-windows\beta_simulator_windows\beta_simulator_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\svarshne\Documents\Data_Science\Udacity_Self_driving_cars_Term_1\project_4\beta-simulator-windows\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\svarshne\Documents\Data_Science\Udacity_Self_driving_cars_Term_1\project_4\beta-simulator-windows\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\svarshne\Documents\Data_Science\Udacity_Self_driving_cars_Term_1\project_4\beta-simulator-windows\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\svarshne\Documents\Data_Science\Udacity_Self_driving_cars_Term_1\project_4\beta-simulator-windows\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\svarshne\Documents\Data_Science\Udacity_Self_driving_cars_Term_1\project_4\beta-simulator-windows\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\svarshne\Documents\Data_Science\Udacity_Self_driving_cars_Term_1\project_4\beta-simulator-windows\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.144 seconds
+Platform assembly: C:\Users\svarshne\Documents\Data_Science\Udacity_Self_driving_cars_Term_1\project_4\beta-simulator-windows\beta_simulator_windows\beta_simulator_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\svarshne\Documents\Data_Science\Udacity_Self_driving_cars_Term_1\project_4\beta-simulator-windows\beta_simulator_windows\beta_simulator_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+Platform assembly: C:\Users\svarshne\Documents\Data_Science\Udacity_Self_driving_cars_Term_1\project_4\beta-simulator-windows\beta_simulator_windows\beta_simulator_Data\Managed\Mono.Security.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.292886 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2b4 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.745771 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 511.
+Total: 0.352283 ms (FindLiveObjects: 0.037002 ms CreateObjectMapping: 0.025297 ms MarkObjects: 0.250714 ms  DeleteObjects: 0.012460 ms)
+
+in menu script 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 37.568588 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 1623.
+Total: 6.842528 ms (FindLiveObjects: 0.635846 ms CreateObjectMapping: 0.366253 ms MarkObjects: 2.786172 ms  DeleteObjects: 3.049346 ms)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
